@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=409&size=60&duration=4100&pause=150&color=DE0000&center=true&vCenter=true&width=435&lines=I'm+Sukuna;King+of+Curses" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=409&size=50&duration=4100&pause=150&color=DE0000&center=true&vCenter=true&width=435&lines=I'm+Sukuna;King+of+Curses" alt="Typing SVG" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
