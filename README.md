@@ -1,4 +1,4 @@
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/cosmic_freak" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=409&size=60&duration=4100&pause=150&color=DE0000&center=true&vCenter=true&width=435&lines=I'm+Sukuna;King+of+Curses" alt="Typing SVG" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
