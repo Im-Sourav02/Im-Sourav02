@@ -1,10 +1,11 @@
+<a href="https://github.com/Im-Sourav02"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Sukuna+;From+India;Bot/Web+Dev!;Telegram%3A+%40Real_Sukuna" alt="https://t.me/Real_Sukuna02" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/proyato/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Im-Sourav02/count.svg" />
 </p>
 
 <a href="https://telegram.me/Real_Sukuna02"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=DE0000&lines=Hi!%2C+I'm+Sukuna;King+of+Curses+" alt="Typing SVG" /></a> </p>
