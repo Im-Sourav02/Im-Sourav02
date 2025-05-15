@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Im-Sourav/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Im-Sourav02/count.svg" />
 </p>
 
 <a href="https://telegram.me/Real_Sukuna02"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=DE0000&lines=Hi!%2C+I'm+Sukuna;King+of+Curses+" alt="Typing SVG" /></a> </p>
