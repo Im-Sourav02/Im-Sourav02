@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Im-Sourav02/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/proyato/count.svg" />
 </p>
 
 <a href="https://telegram.me/Real_Sukuna02"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=DE0000&lines=Hi!%2C+I'm+Sukuna;King+of+Curses+" alt="Typing SVG" /></a> </p>
@@ -26,7 +26,7 @@
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Im-Sourav02&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sewxiy) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Sourav02&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/sewxiy)
+[<img src="https://github-readme-stats.vercel.app/api?username=Im-Sourav02&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Im-Sourav02) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Sourav02&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Im-Sourav02)
     
 
     
