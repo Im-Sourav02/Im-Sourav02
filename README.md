@@ -15,7 +15,7 @@
 ![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,html)
 
 <p align="center">
-  <a href="https://t.me/Real_Sukuna02"><img src="https://image7.uhdpaper.com/wallpaper/jujutsu-kaisen-sukuna-yuji-itadori-uhdpaper.com-4K-7.3049.jpg"></a>
+  <a href="https://t.me/Real_Sukuna02"><img src="https://i.ibb.co/kVvsMFB7/photo-2025-05-15-08-43-20-7504590506555342852.jpg"></a>
     </p>
 <p align="center">
 
